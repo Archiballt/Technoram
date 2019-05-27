@@ -1,0 +1,13 @@
+{
+    "name": "qa/codeption-tests",
+    "authors": [
+        {
+            "name": "Belaya Oksana",
+            "email": "o.belaya@redreams.ru"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "codeception/codeception": "^2.5"
+    }
+}

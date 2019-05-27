@@ -1,0 +1,1 @@
+java -jar D:\Project\codeptionTests\tests\selenium-server\selenium-server-standalone-2.47.1.jar -Dwebdriver.chrome.driver=D:\Project\codeptionTests\tests\selenium-server\chromedriver.exe
