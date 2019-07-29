@@ -8,7 +8,7 @@ actor: AcceptanceTester
 modules:
     enabled:
         - WebDriver:
-            url: http://sport-marafon:ci5OmiheeW@stage.sport-marafon.ru/
+            url: http://tehnorama.origix.ru/
 
             browser: chrome
             window_size: 1920x1080
